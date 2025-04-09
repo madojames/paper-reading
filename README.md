@@ -5,7 +5,7 @@
 2. 3D) Liu JT, Chow SS, Colling R, Downes MR, Farré X, Humphrey P, Janowczyk A, Mirtti T, Verrill C, Zlobec I, True LD. Engineering the future of 3D pathology. J Pathol Clin Res. 2024 Jan;10(1):e347. doi: 10.1002/cjp2.347. Epub 2023 Nov 2. PMID: 37919231; PMCID: PMC10807588.
 
 ### method
-1. generative mmodel) **Accelerating histopathology workflows with generative AI-based virtually multiplexed tumour profiling.** Nat Mach Intell (2024). [paper](https://doi.org/10.1038/s42256-024-00889-5)
+1. generative model) **Accelerating histopathology workflows with generative AI-based virtually multiplexed tumour profiling.** Nat Mach Intell (2024). [paper](https://doi.org/10.1038/s42256-024-00889-5)
 
     *Pati, P., Karkampouna, S., Bonollo, F. et al.*
 
@@ -17,7 +17,7 @@
 
    *Lu, M.Y., Chen, B., Williamson, D.F.K. et al.*
 
-4. **Deep Learning for Classification of Inflammatory Bowel Disease Activity in Whole Slide Images of Colonic Histopathology**, The American Journal of Pathology, 2025, [Paper](https://www.sciencedirect.com/science/article/pii/S0002944025000057?casa_token=VRtfZvT4thAAAAAA:43kAO0f8sW8L1VawK7w8oUG57ID0orSTtBQj-Lf3A1CLPqnSwwC_ORp7KYzJrjKtyLzOnrcvV_Q)
+4. classification) **Deep Learning for Classification of Inflammatory Bowel Disease Activity in Whole Slide Images of Colonic Histopathology**, The American Journal of Pathology, 2025, [Paper](https://www.sciencedirect.com/science/article/pii/S0002944025000057?casa_token=VRtfZvT4thAAAAAA:43kAO0f8sW8L1VawK7w8oUG57ID0orSTtBQj-Lf3A1CLPqnSwwC_ORp7KYzJrjKtyLzOnrcvV_Q)
 
    *Amit Das, Tanmay Shukla, Naofumi Tomita, Ryland Richards et al.*
    
