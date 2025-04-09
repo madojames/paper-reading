@@ -45,5 +45,9 @@
 
     *Y. Deng et al.*
 
+11. dataset & embedding) **A pathology foundation model for cancer diagnosis and prognosis prediction.** Nature 634, 970–978 (2024). [paper](https://doi.org/10.1038/s41586-024-07894-z)
+
+    *Wang, X., Zhao, J., Marostica, E. et al.*
+
 
 
