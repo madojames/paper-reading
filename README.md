@@ -1,8 +1,4 @@
-# paper-reading
-
-Paper area and list:
-
-## pathology
+# paper-reading on pathology
 
 ### review
 1. XAI) Klauschen F, Dippel J, Keyl P, Jurmeister P, Bockmayr M, Mock A, Buchstab O, Alber M, Ruff L, Montavon G, Müller KR. Toward Explainable Artificial Intelligence for Precision Pathology. Annu Rev Pathol. 2024 Jan 24;19:541-570. doi: 10.1146/annurev-pathmechdis-051222-113147. Epub 2023 Oct 23.
