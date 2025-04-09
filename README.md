@@ -17,31 +17,31 @@ Paper area and list:
 
    *Chen, R.J., Ding, T., Lu, M.Y. et al.*
    
-4. Language model）**A multimodal generative AI copilot for human pathology.** Nature 634, 466–473 (2024). [paper](https://doi.org/10.1038/s41586-024-07618-3)
+3. Language model）**A multimodal generative AI copilot for human pathology.** Nature 634, 466–473 (2024). [paper](https://doi.org/10.1038/s41586-024-07618-3)
 
    *Lu, M.Y., Chen, B., Williamson, D.F.K. et al.*
    
-6. Language model） **A visual-language foundation model for computational pathology.** Nat Med 30, 863–874 (2024). [paper](https://doi.org/10.1038/s41591-024-02856-4)
+4. Language model） **A visual-language foundation model for computational pathology.** Nat Med 30, 863–874 (2024). [paper](https://doi.org/10.1038/s41591-024-02856-4)
 
    *Lu, M.Y., Chen, B., Williamson, D.F.K. et al.*
    
-8. embedding transformer）**Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology.**  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 11343-11352 [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tang_Feature_Re-Embedding_Towards_Foundation_Model-Level_Performance_in_Computational_Pathology_CVPR_2024_paper.html)
+5. embedding transformer）**Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology.**  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 11343-11352 [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tang_Feature_Re-Embedding_Towards_Foundation_Model-Level_Performance_in_Computational_Pathology_CVPR_2024_paper.html)
 
    *Wenhao Tang, Fengtao Zhou, Sheng Huang, Xiang Zhu, Yi Zhang, Bo Liu*
 
-9. embedding VIT)  **A foundation model for clinical-grade computational pathology and rare cancers detection.** Nat Med 30, 2924–2935 (2024). [paper](https://doi.org/10.1038/s41591-024-03141-0)
+6. embedding VIT)  **A foundation model for clinical-grade computational pathology and rare cancers detection.** Nat Med 30, 2924–2935 (2024). [paper](https://doi.org/10.1038/s41591-024-03141-0)
 
     *Vorontsov, E., Bozkurt, A., Casson, A. et al.*
     
-12. embedding VIT) **Transcriptomics-guided slide representation learning in computational pathology.** InProceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (pp. 9632-9644).[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Jaume_Transcriptomics-guided_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.html)
+7. embedding VIT) **Transcriptomics-guided slide representation learning in computational pathology.** InProceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (pp. 9632-9644).[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Jaume_Transcriptomics-guided_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.html)
 
    *Jaume G, Oldenburg L, Vaidya A, Chen RJ, Williamson DF, Peeters T, Song AH, Mahmood F.*
 
-13. prediction) **THItoGene: a deep learning method for predicting spatial transcriptomics from histological images**, Briefings in Bioinformatics, Volume 25, Issue 1, January 2024, bbad464, [paper](https://doi.org/10.1093/bib/bbad464)
+8. prediction) **THItoGene: a deep learning method for predicting spatial transcriptomics from histological images**, Briefings in Bioinformatics, Volume 25, Issue 1, January 2024, bbad464, [paper](https://doi.org/10.1093/bib/bbad464)
 
    *Yuran Jia, Junliang Liu, Li Chen, Tianyi Zhao, Yadong Wang*
 
-14. **Exploring the Distribution of Cell Subpopulations in Pancreatic Ductal Adenocarcinoma Slides by Joint Spatial Transcriptomics and Pathology Data** ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, [paper](https://ieeexplore.ieee.org/document/10889025).
+9. **Exploring the Distribution of Cell Subpopulations in Pancreatic Ductal Adenocarcinoma Slides by Joint Spatial Transcriptomics and Pathology Data** ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, [paper](https://ieeexplore.ieee.org/document/10889025).
 
    *Y. Deng et al.*
 
