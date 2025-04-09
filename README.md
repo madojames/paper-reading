@@ -35,13 +35,15 @@ Paper area and list:
     
 12. embedding VIT) **Transcriptomics-guided slide representation learning in computational pathology.** InProceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (pp. 9632-9644).[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Jaume_Transcriptomics-guided_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.html)
 
-*Jaume G, Oldenburg L, Vaidya A, Chen RJ, Williamson DF, Peeters T, Song AH, Mahmood F.*
+   *Jaume G, Oldenburg L, Vaidya A, Chen RJ, Williamson DF, Peeters T, Song AH, Mahmood F.*
 
 13. prediction) **THItoGene: a deep learning method for predicting spatial transcriptomics from histological images**, Briefings in Bioinformatics, Volume 25, Issue 1, January 2024, bbad464, [paper](https://doi.org/10.1093/bib/bbad464)
 
-*Yuran Jia, Junliang Liu, Li Chen, Tianyi Zhao, Yadong Wang*
+   *Yuran Jia, Junliang Liu, Li Chen, Tianyi Zhao, Yadong Wang*
 
-14. Y. Deng et al., "Exploring the Distribution of Cell Subpopulations in Pancreatic Ductal Adenocarcinoma Slides by Joint Spatial Transcriptomics and Pathology Data," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, [paper](https://ieeexplore.ieee.org/document/10889025).
+14. **Exploring the Distribution of Cell Subpopulations in Pancreatic Ductal Adenocarcinoma Slides by Joint Spatial Transcriptomics and Pathology Data** ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, [paper](https://ieeexplore.ieee.org/document/10889025).
+
+   *Y. Deng et al.*
 
 
 
